@@ -1,0 +1,48 @@
+{
+  "audio_files": [
+    "038010_EIT-2A.mp3",
+    "038011_EIT-1A.mp3",
+    "038012_EIT-2A.mp3",
+    "038015_EIT-1A.mp3"
+  ],
+  "participants": [
+    {
+      "filename": "038010_EIT-2A.mp3",
+      "filepath": "/Users/aadijoshi/Desktop/Audio-to-Text-Transcription-DEV/dataset/Sample Audio Files and Transcriptions/038010_EIT-2A.mp3",
+      "participant_id": "038010",
+      "eit_version": "2A"
+    },
+    {
+      "filename": "038011_EIT-1A.mp3",
+      "filepath": "/Users/aadijoshi/Desktop/Audio-to-Text-Transcription-DEV/dataset/Sample Audio Files and Transcriptions/038011_EIT-1A.mp3",
+      "participant_id": "038011",
+      "eit_version": "1A"
+    },
+    {
+      "filename": "038012_EIT-2A.mp3",
+      "filepath": "/Users/aadijoshi/Desktop/Audio-to-Text-Transcription-DEV/dataset/Sample Audio Files and Transcriptions/038012_EIT-2A.mp3",
+      "participant_id": "038012",
+      "eit_version": "2A"
+    },
+    {
+      "filename": "038015_EIT-1A.mp3",
+      "filepath": "/Users/aadijoshi/Desktop/Audio-to-Text-Transcription-DEV/dataset/Sample Audio Files and Transcriptions/038015_EIT-1A.mp3",
+      "participant_id": "038015",
+      "eit_version": "1A"
+    }
+  ],
+  "template_sheets": [
+    "38010-2A",
+    "38011-1A",
+    "38012-2A",
+    "38015-1A"
+  ],
+  "scoring_sheets": [
+    "38001-1A",
+    "38002-2A",
+    "38004-2A",
+    "38006-2A"
+  ],
+  "num_sentences": 30,
+  "language": "Spanish"
+}

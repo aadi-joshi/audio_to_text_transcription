@@ -1,0 +1,13 @@
+evaluation_type,model,participant_id,wer,cer,num_sentences
+ASR_vs_stimulus,small,038010,1.004,0.8335,30
+ASR_vs_stimulus,small,038011,0.8675,0.6776,30
+ASR_vs_stimulus,small,038012,1.1812,0.8907,20
+ASR_vs_stimulus,small,038015,1.0485,0.8109,28
+ASR_vs_stimulus,medium,038010,1.2169,0.9918,30
+ASR_vs_stimulus,medium,038011,1.0402,0.8294,30
+ASR_vs_stimulus,medium,038012,1.0396,0.8091,28
+ASR_vs_stimulus,medium,038015,1.1567,0.8993,27
+cross_model,small_vs_medium,038010,1.3018,0.0,30
+cross_model,small_vs_medium,038011,1.2656,0.0,30
+cross_model,small_vs_medium,038012,1.1265,0.0,20
+cross_model,small_vs_medium,038015,1.0571,0.0,27
